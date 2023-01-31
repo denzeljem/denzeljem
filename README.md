@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Denzel and I'm new to the world of development! I am currently learning HTML, CSS, JavaScript and Python. 
+My name is Denzel and I'm currently transitioning from business administration into the tech world 💻
 
-I am going through a career change where I was working in administration but I now would like to transition into the tech world!
-
-I'm looking to break into the field to become a Software Engineer so any help and guidance is <b>greatly</b> appreciated 👍 - you can reach me via email at denzeljmensah@gmail.com!
-
-Thanks for reading!
+I'm currently working on some small projects to boost my experience in C++, JavaScript and Python.
